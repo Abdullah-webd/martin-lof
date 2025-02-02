@@ -2,7 +2,7 @@
 
 Please inform us of any inaccuracies or missing works.
 
-| Title | Date |
+| Title |  |
 |:------|:----:|
 |[Definition of Random Sequences](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Definition-of-Random-Sequences-1966.pdf)| 1966 |
 |[Algorithms and randomness](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Algorithms-and-randomness-1969.pdf) | 1969 |
